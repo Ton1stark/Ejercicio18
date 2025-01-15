@@ -4,15 +4,10 @@
  */
 package ejerciciopp18;
 
-/**
- *
- * @author Dell
- */
+
 public class EjercicioPP18 {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
        VentanaPrincipal ventana = new VentanaPrincipal();
        ventana.setVisible(true);
